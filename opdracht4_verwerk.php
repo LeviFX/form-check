@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Opdracht 4 Verwerk</title>
-    <script src="https://kit.fontawesome.com/7c254fb8d3.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/" crossorigin="anonymous"></script>
 </head>
 <body>
 <?php
