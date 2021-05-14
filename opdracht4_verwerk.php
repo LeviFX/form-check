@@ -22,7 +22,7 @@ if (isset($_POST['submit'])) {
 
     $SuccessCheck = 0;
 
-    if (isset($_SERVER["HTTP_REFERER"]) && $_SERVER["HTTP_REFERER"] == "https://84845.ict-lab.nl/veipro/php/opdracht4/opdracht4_form.php") {
+    if (isset($_SERVER["HTTP_REFERER"]) && $_SERVER["HTTP_REFERER"] == "link") {
         // Afzender klopt
         session_start();
         $SuccessCheck++; // 1
